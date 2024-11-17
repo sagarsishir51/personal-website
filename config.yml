@@ -27,12 +27,12 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "I am a Computer Vision Enthusiastic working as Project Manager in Dallo Tech Pvt. Ltd."
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -52,48 +52,41 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Sagar Bhusal
+          subtitle: "I am a Computer Vision Enthusiastic working as Project Manager in Dallo Tech Pvt. Ltd. I am currently doing Master's in Informatics and Intelligent Systems Engineering From Thapathali Engineering Campus.
+          I have been working for more than 5 years in Web Development Field."
+          imageUrl: "image.jpg"
           imageWidth: 160
           imageHeight: 160
-          buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+#          buttons:
+#            - name: Papers
+#              url: papers/
+#            - name: Courses
+#              url: courses/
+#            - name: Data
+#              url: data/
+#            - name: Books
+#              url: books/
+#            - name: Tags
+#              url: tags/
+#            - name: Archive
+#              url: archive/
+#            - name: Blog
+#              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:gaindakotsagar@gmail.com
+#        - name: Google Scholar
+#          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/sagarsishir51/
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://github.com/sagarsishir51
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://twitter.com/sagarsishir51
 
     assets:
         disableScrollBarStyle: true
